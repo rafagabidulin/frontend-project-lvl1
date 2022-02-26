@@ -10,5 +10,5 @@ rules:
   no-console: 0
   import/extensions:
     - error
-    - ignorePackeages
+    - ignorePackages
     - js: always
