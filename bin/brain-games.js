@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-import { name }  from "../src/cli.js";
-
+import { print } from '../src/cli.js';
+print();
