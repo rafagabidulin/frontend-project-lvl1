@@ -10,6 +10,9 @@ brain-even: #запуск приложения brain-even
 brain-calc: #запуск приложения brain-calc
 	node bin/brain-calc.js
 
+brain-gcd: #запуск приложения brain-gcd
+	node bin/brain-gcd.js
+
 publish: #публикация приложения
 	npm publish --dry-run
 
