@@ -3,8 +3,13 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![lint](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml)
 
-asciinema Brain-Even: https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj
+### asciinema Brain-even: 
+[![asciicast](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj.png)](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj)
 
-asciinema Brain-Calc: https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA
+### asciinema Brain-calc: 
+[![asciicast](https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA.png)](https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA)
+
+### asciinema Brain-gcd: 
+[![asciicast](https://asciinema.org/a/Hx9L5DRC5HcyiIQ3EvyW6rqTl.png)](https://asciinema.org/a/Hx9L5DRC5HcyiIQ3EvyW6rqTl)
 
 
