@@ -4,12 +4,12 @@
 [![lint](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml)
 
 ### asciinema Brain-even: 
-[![asciicast](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj.png)](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj)
+<script id="asciicast-YjdJqHsCwhpUhBulsb1M75Rfj" src="https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj.js" async></script>
 
 ### asciinema Brain-calc: 
-[![asciicast](https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA.png)](https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA)
+<script id="asciicast-2m5uqmaFdY7NesBM41GLs2ijA" src="https://asciinema.org/a/2m5uqmaFdY7NesBM41GLs2ijA.js" async></script>
 
 ### asciinema Brain-gcd: 
-[![asciicast](https://asciinema.org/a/Hx9L5DRC5HcyiIQ3EvyW6rqTl.png)](https://asciinema.org/a/Hx9L5DRC5HcyiIQ3EvyW6rqTl)
+<script id="asciicast-Hx9L5DRC5HcyiIQ3EvyW6rqTl" src="https://asciinema.org/a/Hx9L5DRC5HcyiIQ3EvyW6rqTl.js" async></script>
 
 
