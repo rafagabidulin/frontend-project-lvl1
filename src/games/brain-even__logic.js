@@ -2,7 +2,7 @@ import readlineSync from 'readline-sync';
 import greetings from '../cli.js';
 
 const yesNoAnswer = () => {
-  console.log('Answer "yes" if given number is prime. Otherwise answer "no".');
+  console.log('Answer "yes" if given number is even. Otherwise answer "no".');
 };
 
 const isEven = (number) => (number % 2 === 0 ? 'yes' : 'no');
