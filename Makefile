@@ -16,6 +16,9 @@ brain-gcd: #запуск приложения brain-gcd
 brain-progression: #запуск приложения brain-progression
 	node bin/brain-progression.js
 
+brain-prime: #запуск приложения brain-even
+	node bin/brain-prime.js
+
 publish: #публикация приложения
 	npm publish --dry-run
 
