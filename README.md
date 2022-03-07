@@ -3,6 +3,19 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![lint](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml/badge.svg)](https://github.com/rafagabidulin/frontend-project-lvl1/actions/workflows/lint.yml)
 
+## Game setup
+```
+make install
+```
+## Game start
+```
+make {game name}
+```
+## Game test
+```
+make lint
+```
+
 ### asciinema Brain-even game:
 [![asciicast](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj.svg)](https://asciinema.org/a/YjdJqHsCwhpUhBulsb1M75Rfj)
 

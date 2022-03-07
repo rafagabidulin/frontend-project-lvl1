@@ -45,13 +45,13 @@ const brainProgression = () => {
     const answer = Number(readlineSync.question('Your answer: '));
 
     if (answer !== hiddenNumber) {
-      console.log(`${answer} is wrong answer ;(. Correct answer was ${hiddenNumber}`);
+      console.log(`${answer} is wrong answer ;(. Correct answer was ${hiddenNumber}.`);
       console.log(`Let's try again, ${name}!`);
       return;
     }
     console.log('Correct!');
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default brainProgression;

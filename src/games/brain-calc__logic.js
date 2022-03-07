@@ -45,13 +45,13 @@ const brainCalc = () => {
     const result = getCalc(randomNumber1, randomNumber2, randomOperator);
     const answer = Number(readlineSync.question('Your answer: '));
     if (answer !== result) {
-      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}`);
+      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}.`);
       console.log(`Let's try again, ${name}!`);
       return;
     }
     console.log('Correct!');
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default brainCalc;

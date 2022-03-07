@@ -43,7 +43,7 @@ const brainGcd = () => {
     const result = getGreatestCommonDivision(randomNumber1, randomNumber2);
 
     if (result !== answer) {
-      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}`);
+      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}.`);
       console.log(`Let's try again, ${name}!`);
       return;
     }

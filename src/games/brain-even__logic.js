@@ -28,13 +28,13 @@ const brainEven = () => {
     const answer = readlineSync.question('Your answer: ');
     const result = isEven(randomNumber);
     if (answer !== result) {
-      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}`);
+      console.log(`${answer} is wrong answer ;(. Correct answer was ${result}.`);
       console.log(`Let's try again, ${name}!`);
       return;
     }
     console.log('Correct!');
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default brainEven;
